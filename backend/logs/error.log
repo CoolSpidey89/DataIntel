@@ -1,0 +1,1 @@
+{"level":"error","message":"Error connecting to MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","service":"hpcl-lead-intelligence","timestamp":"2026-02-08T11:51:41.639Z"}
